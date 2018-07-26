@@ -2,7 +2,9 @@
 
 Data Science Projects
 
-This repo is a table fo contents for my GitHub profile. Below are links to my projects.
+This repo is a table of contents for my GitHub profile. Below are links to my projects.
+
+You can also head to my website by clicking [here](https://mjspeck.github.io/).
 
 ## [Indeed - webscraping](https://github.com/mjspeck/webscraping-indeed)  
 
